@@ -1,0 +1,30 @@
+FeatherPen Software License
+
+Copyright (c) 2026 xxcpc. All rights reserved.
+
+FeatherPen is proprietary software.
+
+Permission is granted to download, install, and use unmodified copies of
+FeatherPen for personal use and for internal business operations.
+
+Except where applicable law expressly permits otherwise, you may not:
+
+1. modify, reverse engineer, decompile, disassemble, or create derivative
+   works from FeatherPen;
+2. redistribute, sublicense, sell, rent, lease, repackage, or make FeatherPen
+   available to third parties without prior written permission from the
+   copyright holder; or
+3. use the FeatherPen name, logo, icons, or other brand assets in another
+   product without prior written permission from the copyright holder.
+
+Third-party software included with FeatherPen remains subject to its own
+license terms. Those terms are reproduced or referenced in
+THIRD-PARTY-NOTICES.txt and take precedence for the applicable third-party
+components.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF THE SOFTWARE.
+
